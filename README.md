@@ -6,6 +6,20 @@ This repository presents a research proposal focused on a practical business and
 
 - ARM2 submission PDF: [DLMARM01-01-ARM2.pdf](docs/DLMARM01-01-ARM2.pdf)
 
+## Visual Outputs
+
+### Testbed Environment Layout
+
+![Testbed Environment Layout](assets/Testbed_environment.jpg)
+
+This figure shows the planned experimental setup across dense, roaming, and hotspot security contexts, making clear how the proposal isolates feature impact by environment.
+
+### Research Feature Graphic
+
+![WPA3 and Wi-Fi Research Feature](assets/linkedin-featured-wifi-research.svg)
+
+This graphic summarizes the project theme for quick scanning: standards-informed Wi-Fi upgrades prioritized by measurable operational outcomes.
+
 ## Business Problem
 
 Campus IT and public hotspot operators must balance three pressures at once:

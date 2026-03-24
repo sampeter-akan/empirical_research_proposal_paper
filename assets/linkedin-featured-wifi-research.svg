@@ -1,0 +1,109 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">MSc Wi-Fi Research Project Featured Image</title>
+  <desc id="desc">A modern banner highlighting a 90 percent MSc research achievement on IEEE 802.11 and WPA3 feature prioritization.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#07203A"/>
+      <stop offset="55%" stop-color="#0A3A66"/>
+      <stop offset="100%" stop-color="#0E5A7F"/>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00D4FF"/>
+      <stop offset="100%" stop-color="#74FFB0"/>
+    </linearGradient>
+
+    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#8FC7E8" stroke-opacity="0.12" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <rect width="1600" height="900" fill="url(#grid)"/>
+
+  <circle cx="1380" cy="160" r="220" fill="#00D4FF" opacity="0.12"/>
+  <circle cx="1260" cy="220" r="140" fill="#74FFB0" opacity="0.12"/>
+  <circle cx="260" cy="760" r="280" fill="#6BD4FF" opacity="0.08"/>
+
+  <path d="M 0 720 C 300 620, 700 780, 1000 710 C 1250 660, 1450 730, 1600 690 L 1600 900 L 0 900 Z"
+        fill="#041528" opacity="0.55"/>
+
+  <text x="120" y="145" fill="#C8F3FF" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="600" letter-spacing="1.2">
+    MSc ADVANCED RESEARCH METHODS
+  </text>
+
+  <rect x="120" y="182" width="210" height="72" rx="16" fill="url(#accent)" filter="url(#softGlow)"/>
+  <text x="225" y="229" text-anchor="middle" fill="#032535" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="800">
+    90%
+  </text>
+
+  <text x="360" y="232" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="44" font-weight="700">
+    Research Grade Achievement
+  </text>
+
+  <text x="120" y="320" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="800">
+    IEEE 802.11 + WPA3
+  </text>
+  <text x="120" y="386" fill="#D9F5FF" font-family="Segoe UI, Arial, sans-serif" font-size="46" font-weight="700">
+    Feature Prioritization for Campus Wi-Fi
+  </text>
+
+  <text x="120" y="470" fill="#BFE9FF" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="500">
+    Empirical study design focused on speed, roaming continuity, and security resilience
+  </text>
+
+  <g transform="translate(118,545)">
+    <rect x="0" y="0" width="440" height="68" rx="14" fill="#0E2E49" stroke="#4CC9F0" stroke-opacity="0.6"/>
+    <text x="220" y="43" text-anchor="middle" fill="#E6F8FF" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">
+      Dense Network Testing
+    </text>
+  </g>
+
+  <g transform="translate(578,545)">
+    <rect x="0" y="0" width="440" height="68" rx="14" fill="#0E2E49" stroke="#4CC9F0" stroke-opacity="0.6"/>
+    <text x="220" y="43" text-anchor="middle" fill="#E6F8FF" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">
+      Multi-AP Roaming
+    </text>
+  </g>
+
+  <g transform="translate(1038,545)">
+    <rect x="0" y="0" width="440" height="68" rx="14" fill="#0E2E49" stroke="#4CC9F0" stroke-opacity="0.6"/>
+    <text x="220" y="43" text-anchor="middle" fill="#E6F8FF" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">
+      WPA3 Security Analysis
+    </text>
+  </g>
+
+  <g transform="translate(1160,235)">
+    <circle cx="160" cy="160" r="138" fill="none" stroke="#6FE3FF" stroke-width="4" stroke-opacity="0.35"/>
+    <circle cx="160" cy="160" r="102" fill="none" stroke="#6FE3FF" stroke-width="4" stroke-opacity="0.45"/>
+    <circle cx="160" cy="160" r="66" fill="none" stroke="#6FE3FF" stroke-width="4" stroke-opacity="0.65"/>
+    <circle cx="160" cy="160" r="14" fill="#74FFB0"/>
+    <path d="M 70 240 Q 160 110 250 240" fill="none" stroke="#B7F3FF" stroke-width="8" stroke-linecap="round"/>
+    <path d="M 95 275 Q 160 180 225 275" fill="none" stroke="#B7F3FF" stroke-width="8" stroke-linecap="round"/>
+    <path d="M 125 310 Q 160 255 195 310" fill="none" stroke="#B7F3FF" stroke-width="8" stroke-linecap="round"/>
+  </g>
+
+  <g transform="translate(1130,640)">
+    <rect x="0" y="0" width="310" height="170" rx="20" fill="#0D2940" stroke="#70E3FF" stroke-opacity="0.6"/>
+    <path d="M 155 36 L 245 72 L 245 122 C 245 152 219 178 155 196 C 91 178 65 152 65 122 L 65 72 Z"
+          transform="scale(1 0.8) translate(0 16)"
+          fill="none" stroke="#9EEFFF" stroke-width="6"/>
+    <path d="M 129 94 L 148 113 L 187 74" fill="none" stroke="#74FFB0" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="155" y="155" text-anchor="middle" fill="#D5F8FF" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600">
+      Security Resilience
+    </text>
+  </g>
+
+  <text x="120" y="835" fill="#A9D8EA" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="500">
+    Samuel Peter | DevOps and Cloud Computing MSc | IU International University of Applied Sciences
+  </text>
+</svg>
