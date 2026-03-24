@@ -61,8 +61,9 @@ The proposed evidence directly supports cloud and zero-trust architecture decisi
 - `docs/DLMARM01-01-ARM2.pdf` - hosted ARM2 PDF for portfolio/reviewer access
 - `assets/linkedin-featured-wifi-research.svg` - visual asset for portfolio promotion
 
-## Suggested Portfolio Use
+## What Visitors Should Take Away
 
-- Use this repository link in CV, LinkedIn, and application materials.
-- Point reviewers first to the PDF, then to this README for business framing and practical implications.
-- Reuse the Research-to-Practice section when mapping academic work to cloud security engineering roles.
+- This paper addresses a real deployment challenge: how to prioritize Wi-Fi security and reliability upgrades when budgets are limited.
+- The proposal uses a structured, evidence-driven method to compare congestion, roaming, and security outcomes in realistic campus/public scenarios.
+- The practical output is a decision-oriented roadmap that helps operators sequence upgrades by risk reduction and user impact.
+- For full detail, start with the PDF, then use this README for the business context and implementation relevance.
