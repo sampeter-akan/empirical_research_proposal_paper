@@ -12,13 +12,13 @@ This repository presents a research proposal focused on a practical business and
 
 ![Testbed Environment Layout](assets/Testbed_environment.jpg)
 
-This figure shows the planned experimental setup across dense, roaming, and hotspot security contexts, making clear how the proposal isolates feature impact by environment.
+Output: a clear view of the three test environments used to isolate congestion, roaming, and security feature effects.
 
 ### Research Feature Graphic
 
 ![WPA3 and Wi-Fi Research Feature](assets/linkedin-featured-wifi-research.svg)
 
-This graphic summarizes the project theme for quick scanning: standards-informed Wi-Fi upgrades prioritized by measurable operational outcomes.
+Output: a quick visual summary of the project focus on standards-based Wi-Fi upgrades and measurable operational outcomes.
 
 ## Business Problem
 
